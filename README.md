@@ -1,6 +1,6 @@
 # Diet Problem Solver 
 
-This project provides a linear programming solution to minimise weekly food shop costs subject to the user's individual nutritional requirements.
+This project provides a linear programming solution to minimise weekly food shop costs subject to the user's individual nutritional requirements. It reads in a real Tesco dataset sourced from Kaggle.
 
 Built using Python, PuLP and Pandas
 
